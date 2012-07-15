@@ -1,9 +1,8 @@
 /**
 * jScroll - A jQuery iScroll plugin.
 *
-* So what makes jScroll different?  If you have iOS5, it will use native scrolling.  That, and
-* you don't need to have an id on your element.  If one is there, jScroll will use it.  If there
-* isn't one there, jScroll will create an id (uuid) for it and use that.
+* So what makes jScroll different?  If you have iOS5, it will use native scrolling.
+* That, and you don't need to have an id on your element.
 *
 * It works like this:
 *
